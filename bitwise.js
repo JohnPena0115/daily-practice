@@ -50,13 +50,21 @@ Known limitations: the following program will not do well with decimal arguments
 
  */
  
-
+// Works well with decimal numbers 0 - 255
+// Do not use with decimal numbers 256 or greater 
 function bitwiseAnd(n1, n2) {
 	
 	let andOutput = ""
 	
 	let tracker = 0 
 
+
+	// toString with an argument of 2 takes a decimal numeric and converts that number 
+	// to its binary equivalent in a string format 
+
+	// padStart with arguments of 8 and 0 insures that each binary value has at least 8 digits. 
+	// For example, instead of 15 being depicted as 1111 in binary format, 1111.padStart(8, 0) would depict 
+	// 15 as 00001111
 	let binaryConversion1 = n1.toString(2).padStart(8, 0)
 
 	let binaryConversion2 = n2.toString(2).padStart(8, 0)
