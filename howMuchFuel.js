@@ -28,3 +28,7 @@ does not imply a unit but mileage does.
 
 
 */ 
+
+let five = 5 
+
+console.log(five.length)
