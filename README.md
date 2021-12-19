@@ -1,5 +1,7 @@
 # daily-practice
 
+Updated Readme 
+
 12-16-21 => How much is true => https://edabit.com/challenge/GLbuMfTtDWwDv2F73
 12-16-21 => Let's fuel up 
 
