@@ -10,5 +10,5 @@ Updated Readme
 
 12-18-21 => intToString without toString() => https://edabit.com/challenge/svGRKq2Z7SnZiqYwy
 
-12-19-21 => Futher refined intToString
+12-19-21 => Futher refined intToString without toString() => https://edabit.com/challenge/svGRKq2Z7SnZi
 
