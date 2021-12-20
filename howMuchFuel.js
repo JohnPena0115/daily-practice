@@ -1,5 +1,6 @@
 // A vehicle needs 10 times the amount of fuel than the distance it travels. However, it must always carry a minimum of 100 fuel before setting off.
 // https://edabit.com/challenge/YMWDcSuYwYvve3HZj
+// Had to add this line because most recent commit message was attributed to this file. 
 
 function calculateFuel(tripMileage){
 
