@@ -43,7 +43,7 @@ function bitwiseAND(n1, n2) {
 	return n1 & n2 
 }
 
-but I was glad I misread the intended output. 
+but I was glad I misread the intended output as it gave me a chance to tackle a)  
 
 Known limitations: the following program will not do well with decimal arguments greater than 
 255. A future goal to work on. 
