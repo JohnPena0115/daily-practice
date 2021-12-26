@@ -17,4 +17,5 @@ Updated Readme
 12-22-21 => Uploaded intLength algo without converting int to string => https://edabit.com/challenge/yFJzLfYghz7ZtsyAN
 ... Uploading code implementing array deconstructing assignment => https://edabit.com/challenge/sWAEoTbXA4bexBPb6
 
-12-25-21 => Uploaded Array of Multiples => https://edabit.com/challenge/ebcd4Xu8TLizaj6dm
+12-25-21 => Uploaded Array of Multiples => https://edabit.com/challenge/ebcd4Xu8TLizaj6dm 
+... Upload To the Power of N => https://edabit.com/challenge/H25aG5aAdmFcMpBsg
