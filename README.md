@@ -19,3 +19,5 @@ Updated Readme
 
 12-25-21 => Uploaded Array of Multiples => https://edabit.com/challenge/ebcd4Xu8TLizaj6dm 
 ... Upload To the Power of N => https://edabit.com/challenge/H25aG5aAdmFcMpBsg
+
+12-26-21 => Uploaded arrayDataTypeValues => https://edabit.com/challenge/QWmvQsrSuQRmEN8ne
