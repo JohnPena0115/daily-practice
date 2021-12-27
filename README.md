@@ -22,3 +22,5 @@ Updated Readme
 
 12-26-21 => Uploaded arrayDataTypeValues => https://edabit.com/challenge/QWmvQsrSuQRmEN8ne
 ... Uploaded nthEvenValue => https://edabit.com/challenge/Yj2QWQG7oHREM6DRo
+
+12-27-21 => Uploaded stringLengthRecursive => https://edabit.com/challenge/4MSbtYFBiRtxHEkY8
