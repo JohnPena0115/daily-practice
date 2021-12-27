@@ -21,3 +21,4 @@ Updated Readme
 ... Upload To the Power of N => https://edabit.com/challenge/H25aG5aAdmFcMpBsg
 
 12-26-21 => Uploaded arrayDataTypeValues => https://edabit.com/challenge/QWmvQsrSuQRmEN8ne
+... Uploaded nthEvenValue => https://edabit.com/challenge/Yj2QWQG7oHREM6DRo
