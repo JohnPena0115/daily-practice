@@ -23,4 +23,6 @@ Updated Readme
 12-26-21 => Uploaded arrayDataTypeValues => https://edabit.com/challenge/QWmvQsrSuQRmEN8ne
 ... Uploaded nthEvenValue => https://edabit.com/challenge/Yj2QWQG7oHREM6DRo
 
-12-27-21 => Uploaded stringLengthRecursive => https://edabit.com/challenge/4MSbtYFBiRtxHEkY8
+12-27-21 => Uploaded stringLengthRecursive => https://edabit.com/challenge/4MSbtYFBiRtxHEkY8 
+
+12-28-21 => Uploaded convertArrayValues.js => https://edabit.com/challenge/TihiK4mBiYsdGuR5H
