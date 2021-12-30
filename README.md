@@ -27,4 +27,5 @@ Updated Readme
 
 12-28-21 => Uploaded convertArrayValues.js => https://edabit.com/challenge/TihiK4mBiYsdGuR5H
 
-12-29-21 => Uploaded arrayValuePresent.js => https://edabit.com/challenge/SwyjHvkqwwQ2iJsoS
+12-29-21 => Uploaded arrayValuePresent.js => https://edabit.com/challenge/SwyjHvkqwwQ2iJsoS 
+... findIndex.js => https://edabit.com/challenge/pEzxi4MqHGrAi7ZdA
