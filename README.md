@@ -29,3 +29,5 @@ Updated Readme
 
 12-29-21 => Uploaded arrayValuePresent.js => https://edabit.com/challenge/SwyjHvkqwwQ2iJsoS 
 ... findIndex.js => https://edabit.com/challenge/pEzxi4MqHGrAi7ZdA
+
+12-30-21 => Uploaded inequality.js => https://edabit.com/challenge/FvXHdrhjLaof47Qt3
