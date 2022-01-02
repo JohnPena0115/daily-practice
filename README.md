@@ -31,3 +31,5 @@ Updated Readme
 ... findIndex.js => https://edabit.com/challenge/pEzxi4MqHGrAi7ZdA
 
 12-30-21 => Uploaded inequality.js => https://edabit.com/challenge/FvXHdrhjLaof47Qt3
+
+01-01-21 => Uploaded matchStickHouses.js => https://edabit.com/challenge/tYHkTdFrEmWfxpPKF
